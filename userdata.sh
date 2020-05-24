@@ -5,4 +5,4 @@
 yum install -y httpd
 service httpd start
 chkonfig httpd on
-echo "<html><h1>Hello from Alina</h2></html>" > /var/www/html/index.html
+echo "<html><h1>Hello World from Terraform</h2></html>" > /var/www/html/index.html
